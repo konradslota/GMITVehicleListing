@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Rendering UI from App.js File
 ReactDOM.render(
   <React.StrictMode>
     <App />

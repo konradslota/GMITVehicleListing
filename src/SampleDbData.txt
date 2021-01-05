@@ -1,0 +1,29 @@
+     [
+         {
+             "Model": "Honda Civic",
+             "Type": "Hatchback",
+             "Mileage": "50,000km",
+             "Year": "2016",
+             "Contact": "08123456789",
+             "imdbID": "tt4154756",               
+             "Photo": "https://www.flaticon.com/svg/static/icons/svg/3721/3721578.svg"
+         },
+         {
+             "Model": "Toyota Avensis",
+             "Type": "Sedan",
+             "Mileage": "65,000km",
+             "Year": "2015",
+             "Contact": "08234567890",
+             "imdbID": "tt3498820",               
+             "Photo": "https://www.flaticon.com/svg/static/icons/svg/3721/3721398.svg"
+         },
+         {
+             "Model": "Nissan Rouge",
+             "Type": "SUV",
+             "Mileage": "5,000km",
+             "Year": "2020",
+             "Contact": "0863924245",
+             "imdbID": "tt4153771",               
+             "Photo": "https://www.flaticon.com/svg/static/icons/svg/3721/3721406.svg"
+         }
+     ]
